@@ -7,7 +7,7 @@ export const Footer = () => {
       <Text>
         Made with ❤ by{" "}
         <Link
-          href="https://facebook.com/yande.cc"
+          href="https://github.com/yandearta"
           display="inline-flex"
           alignItems="center"
           color="messenger.500"

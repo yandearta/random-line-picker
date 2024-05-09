@@ -9,56 +9,56 @@ importers:
   .:
     dependencies:
       '@chakra-ui/react':
-        specifier: ^2.2.8
+        specifier: ^2.8.2
         version: 2.8.2(@emotion/react@11.11.4(@types/react@18.3.1)(react@18.3.1))(@emotion/styled@11.11.5(@emotion/react@11.11.4(@types/react@18.3.1)(react@18.3.1))(@types/react@18.3.1)(react@18.3.1))(@types/react@18.3.1)(framer-motion@7.10.3(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@chakra-ui/theme-tools':
         specifier: ^2.1.2
         version: 2.1.2(@chakra-ui/styled-system@2.9.2)
       '@emotion/react':
-        specifier: ^11.10.0
+        specifier: ^11.11.4
         version: 11.11.4(@types/react@18.3.1)(react@18.3.1)
       '@emotion/styled':
-        specifier: ^11.10.0
+        specifier: ^11.11.5
         version: 11.11.5(@emotion/react@11.11.4(@types/react@18.3.1)(react@18.3.1))(@types/react@18.3.1)(react@18.3.1)
       framer-motion:
-        specifier: ^7.2.0
+        specifier: ^7.10.3
         version: 7.10.3(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       react:
-        specifier: ^18.2.0
+        specifier: ^18.3.1
         version: 18.3.1
       react-copy-to-clipboard:
         specifier: ^5.1.0
         version: 5.1.0(react@18.3.1)
       react-dom:
-        specifier: ^18.2.0
+        specifier: ^18.3.1
         version: 18.3.1(react@18.3.1)
       react-icons:
-        specifier: ^4.4.0
+        specifier: ^4.12.0
         version: 4.12.0(react@18.3.1)
       react-rewards:
         specifier: ^2.0.4
         version: 2.0.4(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       react-textarea-autosize:
-        specifier: ^8.3.4
+        specifier: ^8.5.3
         version: 8.5.3(@types/react@18.3.1)(react@18.3.1)
     devDependencies:
       '@types/react':
-        specifier: ^18.0.17
+        specifier: ^18.3.1
         version: 18.3.1
       '@types/react-copy-to-clipboard':
-        specifier: ^5.0.4
+        specifier: ^5.0.7
         version: 5.0.7
       '@types/react-dom':
-        specifier: ^18.0.6
+        specifier: ^18.3.0
         version: 18.3.0
       '@vitejs/plugin-react':
-        specifier: ^2.0.1
+        specifier: ^2.2.0
         version: 2.2.0(vite@3.2.10)
       typescript:
-        specifier: ^4.6.4
+        specifier: ^4.9.5
         version: 4.9.5
       vite:
-        specifier: ^3.0.7
+        specifier: ^3.2.10
         version: 3.2.10
 
 packages:

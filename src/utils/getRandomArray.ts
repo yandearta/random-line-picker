@@ -1,3 +1,3 @@
-export const getRandomArray = (array: string[]) => {
+export default function getRandomArray(array: string[]) {
   return array[Math.floor(Math.random() * array.length)];
-};
+}

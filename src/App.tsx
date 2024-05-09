@@ -20,7 +20,7 @@ import { Footer } from "./components/Footer";
 import { BsDice5 } from "react-icons/bs";
 import { FiCopy } from "react-icons/fi";
 
-import { getRandomArray } from "./utils/getRandomArray";
+import getRandomArray from "./utils/getRandomArray";
 
 const confettiConfig = {
   lifetime: 100,
